@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Safrina Nishi
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning ASP.NET MVC
+- 🌱 I’m currently learning "Cross Platform Mobile Applications using MAUI" 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Safrin
